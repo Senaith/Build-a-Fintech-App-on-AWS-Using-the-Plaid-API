@@ -62,4 +62,7 @@ All API calls are made through a Plaid client object. The message flow is as fol
 
 - Make sure you have created a sandbox account at Plaid as described above, and obtained your API keys.
 - You also need to [install AWS Amplify](https://docs.amplify.aws/cli/start/install/).
-- If you have not already done so, [create a default AWS configuration](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config) profile by running the **aws configure** command.
+![5](https://user-images.githubusercontent.com/91766546/161970758-0f821d71-b566-497e-8a2a-31b71040a4dd.png)
+- If you have not already done so, [create a default AWS configuration](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config) profile by running the **aws configure** command.
+![4](https://user-images.githubusercontent.com/91766546/161970698-5ec7a9bc-b043-483e-994f-9aef515ecc9b.png)
+
