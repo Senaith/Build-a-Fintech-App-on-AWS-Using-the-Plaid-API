@@ -110,18 +110,21 @@ Deploy the app:
 
 Go to the URL displayed by the *amplify publish* command, and sign up as a new user. After logging in, select a bank from the list displayed.
 If you are using the sandbox environment, use the credentials **user_good / pass_good** to access the bank and display the transactions.
-
-![Screenshot from 2022-04-11 16-54-35](https://user-images.githubusercontent.com/91766546/162923748-921e09c7-b707-4126-84b0-3be50aab131c.png)
+![Screenshot from 2022-04-11 16-54-35](https://user-images.githubusercontent.com/91766546/162931499-7ede263a-0f58-409c-9929-4a9b6b5e12f6.png)
 
 Select Continue with plaid and then select Continue.
+![2022-04-12_02-44](https://user-images.githubusercontent.com/91766546/162931735-fecb7013-50ad-4971-96e1-d0883d20617d.png)
 
-![111](https://user-images.githubusercontent.com/91766546/162923944-73576ce7-57b8-401b-9379-03d6f80bafd7.png)
 ![22](https://user-images.githubusercontent.com/91766546/162924210-92a870e3-a7ca-4cf4-94f7-217ebf208ba4.png)
 
 After logging in, select a bank from the list displayed.
+
 ![33](https://user-images.githubusercontent.com/91766546/162924291-ffef6208-5fde-4f37-840d-2e3208dc8281.png)
+
 If you are using the sandbox environment, use the credentials user_good and password pass_good to access the bank and display the transactions.
+
 ![44](https://user-images.githubusercontent.com/91766546/162924390-f5a0f5e0-aa81-4d8b-b53e-6e4eb3467d3d.png)
+
 ![55](https://user-images.githubusercontent.com/91766546/162924478-225d5012-2a4a-4917-8404-29bf419c8b99.png)
 
 ## Conclusion
@@ -133,14 +136,19 @@ From here, you can add features such as making payments to friends or vendors, d
 ### Clean Up and delete the resources used
 
 Navigate to your AWS account. Search and select AWS Amplify.
+
 ![2022-04-12_02-21](https://user-images.githubusercontent.com/91766546/162926987-9cef8a10-d5db-44f2-b266-ef149ceb0c44.png)
 
 Click on the awsplaiddemoapp app.
+
 ![66](https://user-images.githubusercontent.com/91766546/162927278-6c50196a-cecf-4f3d-ac28-6ebc5e74a86d.png)
+
 ![77](https://user-images.githubusercontent.com/91766546/162927929-76c6d85c-aeab-4602-ac18-e3cb6c1d82c3.png)
 
 When prompted, confirm that you want to delete the app:
+
 ![2022-04-12_02-29](https://user-images.githubusercontent.com/91766546/162928624-2b41cec4-431f-4cf9-b7a6-b2e1c4d719a8.png)
+
 It will take a few minutes for the app to be completely deleted.
 
 ## Congratulations!!! You have successfully completed this project. 
